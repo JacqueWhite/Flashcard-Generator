@@ -8,6 +8,8 @@
 
 
 
+properties:
+
 fullText
 	full sentence:  
 	Jim Halpert is a salesman at Dunder Mifflin. 
@@ -17,6 +19,8 @@ cloze
 
 partial
 	...is a salesman at Dunder Mifflin
+
+
 
 
 
